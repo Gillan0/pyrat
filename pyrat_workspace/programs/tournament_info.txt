@@ -1,0 +1,19 @@
+Students :
+	- GILLARD Antonino
+	- CHANTREAU Maëlys
+
+Campus : 
+	- Brest
+
+Character name:
+	- René Coty
+
+Team name:
+	- Société Cairote d'Elevage de Pyrat (SCEP)
+
+Group number :
+	- B2 GR7/10
+
+Program to run :
+	- tournament.py
+
